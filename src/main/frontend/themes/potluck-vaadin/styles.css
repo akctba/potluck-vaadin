@@ -1,0 +1,16 @@
+@import url('./main-layout.css');
+@import url('./views/home-view.css');
+@import url('./views/blog-view.css');
+@import url('./views/gathering-list-view.css');
+@import url('./views/gathering-view.css');    html {
+      --lumo-base-color: #fcdfa6;
+      --lumo-primary-color: hsl(33, 95%, 56%);
+      --lumo-primary-color-50pct: hsla(33, 95%, 56%, 0.5);
+      --lumo-primary-color-10pct: hsla(33, 95%, 56%, 0.1);
+      --lumo-space-xl: 2.5rem;
+      --lumo-space-l: 1.75rem;
+      --lumo-space-m: 1.125rem;
+      --lumo-space-s: 0.75rem;
+      --lumo-space-xs: 0.375rem;
+
+    }
